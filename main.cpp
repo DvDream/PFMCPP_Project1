@@ -76,13 +76,13 @@ dog.bark();
 //  action 3: the dog plays
 dog.play();
 //  4)
-//  Noun: bee
-//  action 1: bee flies
-bee.fly();
-//  action 2: bee collects the nectar from plants
-bee.collectNectar();
+//  Noun: Anchor man
+//  action 1: the anchor man read the news
+anchorMan.readTheNews();
+//  action 2: the anchor man host the show
+anchorMan.hostTheShow();
 //  action 3: bee produces wax
-bee.produceWax();
+anchorMan.readTheTeleprompter();
 //  5)
 //  Noun: person
 //  action 1: a person eats
@@ -90,7 +90,7 @@ person.eat();
 //  action 2: a person rides
 person.ride();
 //  action 3: a persone smiles
-persone.smile();
+person.smile();
 //  6)
 //  Noun: loudspeaker
 //  action 1: a loudspeaker vibrates
@@ -110,15 +110,15 @@ chef.serveFood();
 //  8)
 //  Noun: cartoonist
 //  action 1: a cartoonist writes a story
-cartoonist.writeStory()
+cartoonist.writeStory();
 //  action 2: a cartoonist draws
-cartoonist.draw()
+cartoonist.draw();
 //  action 3: a cartoonist illustrates a story
 cartoonist.illustrate();
 //  9)
 //  Noun: smartphone
 //  action 1: a smartphone makes a call
-smartphone.makeCall()
+smartphone.makeCall();
 //  action 2: a smartphone can make a web search
 smartphone.makeWebSearch();
 //  action 3: a smartphone takes photos
